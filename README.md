@@ -21,3 +21,6 @@
 - Automatisation de l'installation de plusieurs applications 
 - Activation de Bitlocker avec MPD 
 - Copie de fichier 
+
+
+Dernière modification : 08/11/2022
